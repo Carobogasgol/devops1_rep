@@ -1,0 +1,1 @@
+print('Shubin Andrey 23-IVT-5')
